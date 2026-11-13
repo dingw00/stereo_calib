@@ -5,7 +5,9 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 .DS_Store
-*_rectified/
-*_rectified_*/
-*_epipolar/
-*_epipolar_*/
+images/
+# params/
+chessboard/
+.scripts/
+.vscode/
+docs/superpowers/
